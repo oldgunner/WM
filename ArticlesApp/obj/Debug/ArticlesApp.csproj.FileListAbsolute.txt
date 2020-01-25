@@ -1,0 +1,176 @@
+D:\Working\ArticlesApp\ArticlesApp\bin\ArticlesApp.dll.config
+D:\Working\ArticlesApp\ArticlesApp\bin\ArticlesApp.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\ArticlesApp.pdb
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\csc.exe
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\csc.exe.config
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\csc.rsp
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\csi.exe
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\csi.exe.config
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\csi.rsp
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\System.AppContext.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\System.Collections.Immutable.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\System.Console.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\System.Globalization.Calendars.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\System.IO.Compression.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\System.IO.FileSystem.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\System.Net.Http.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\System.Net.Sockets.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\System.ValueTuple.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\System.Xml.XPath.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\vbc.exe
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\vbc.exe.config
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\vbc.rsp
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\VBCSCompiler.exe
+D:\Working\ArticlesApp\ArticlesApp\bin\roslyn\VBCSCompiler.exe.config
+D:\Working\ArticlesApp\ArticlesApp\bin\Antlr3.Runtime.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\EntityFramework.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\EntityFramework.SqlServer.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\Newtonsoft.Json.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\System.Web.Helpers.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\System.Web.Mvc.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\System.Web.Optimization.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\System.Web.Razor.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\System.Web.WebPages.Deployment.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\System.Web.WebPages.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\System.Web.WebPages.Razor.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\WebGrease.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\EntityFramework.xml
+D:\Working\ArticlesApp\ArticlesApp\bin\EntityFramework.SqlServer.xml
+D:\Working\ArticlesApp\ArticlesApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Working\ArticlesApp\ArticlesApp\bin\Newtonsoft.Json.xml
+D:\Working\ArticlesApp\ArticlesApp\bin\System.Web.Helpers.xml
+D:\Working\ArticlesApp\ArticlesApp\bin\System.Web.Mvc.xml
+D:\Working\ArticlesApp\ArticlesApp\bin\System.Web.Razor.xml
+D:\Working\ArticlesApp\ArticlesApp\bin\System.Web.WebPages.xml
+D:\Working\ArticlesApp\ArticlesApp\bin\System.Web.WebPages.Deployment.xml
+D:\Working\ArticlesApp\ArticlesApp\bin\System.Web.WebPages.Razor.xml
+D:\Working\ArticlesApp\ArticlesApp\bin\System.Web.Optimization.xml
+D:\Working\ArticlesApp\ArticlesApp\bin\Antlr3.Runtime.pdb
+D:\Working\ArticlesApp\ArticlesApp\obj\Debug\ArticlesApp.csprojAssemblyReference.cache
+D:\Working\ArticlesApp\ArticlesApp\obj\Debug\ArticlesApp.csproj.CoreCompileInputs.cache
+D:\Working\ArticlesApp\ArticlesApp\obj\Debug\ArticlesApp.csproj.CopyComplete
+D:\Working\ArticlesApp\ArticlesApp\obj\Debug\ArticlesApp.dll
+D:\Working\ArticlesApp\ArticlesApp\obj\Debug\ArticlesApp.pdb
+D:\Working\ArticlesApp\ArticlesApp\bin\System.Data.Common.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\System.Data.SqlClient.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\System.Data.SqlLocalDb.dll
+D:\Working\ArticlesApp\ArticlesApp\bin\System.Data.SqlLocalDb.xml
+D:\Working\ArticlesApp\ArticlesApp\bin\en-GB\System.Data.SqlLocalDb.resources.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\ArticlesApp.dll.config
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\ArticlesApp.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\ArticlesApp.pdb
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\csc.exe
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\csc.exe.config
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\csc.rsp
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\csi.exe
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\csi.exe.config
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\csi.rsp
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\System.AppContext.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\System.Collections.Immutable.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\System.Console.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\System.Globalization.Calendars.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\System.IO.Compression.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\System.IO.FileSystem.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\System.Net.Http.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\System.Net.Sockets.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\System.ValueTuple.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\System.Xml.XPath.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\vbc.exe
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\vbc.exe.config
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\vbc.rsp
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\VBCSCompiler.exe
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\roslyn\VBCSCompiler.exe.config
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\Antlr3.Runtime.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\EntityFramework.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\EntityFramework.SqlServer.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\Newtonsoft.Json.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\System.Data.Common.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\System.Data.SqlClient.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\System.Data.SqlLocalDb.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\System.Web.Helpers.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\System.Web.Mvc.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\System.Web.Optimization.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\System.Web.Razor.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\System.Web.WebPages.Deployment.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\System.Web.WebPages.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\System.Web.WebPages.Razor.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\WebGrease.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\EntityFramework.xml
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\EntityFramework.SqlServer.xml
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\Newtonsoft.Json.xml
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\System.Data.SqlLocalDb.xml
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\System.Web.Helpers.xml
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\System.Web.Mvc.xml
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\System.Web.Razor.xml
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\System.Web.WebPages.xml
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\System.Web.WebPages.Deployment.xml
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\System.Web.WebPages.Razor.xml
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\System.Web.Optimization.xml
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\Antlr3.Runtime.pdb
+D:\Working\ArticlesApp - копия\ArticlesApp\bin\en-GB\System.Data.SqlLocalDb.resources.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\obj\Debug\ArticlesApp.csprojAssemblyReference.cache
+D:\Working\ArticlesApp - копия\ArticlesApp\obj\Debug\ArticlesApp.csproj.CoreCompileInputs.cache
+D:\Working\ArticlesApp - копия\ArticlesApp\obj\Debug\ArticlesApp.csproj.CopyComplete
+D:\Working\ArticlesApp - копия\ArticlesApp\obj\Debug\ArticlesApp.dll
+D:\Working\ArticlesApp - копия\ArticlesApp\obj\Debug\ArticlesApp.pdb

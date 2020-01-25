@@ -1,0 +1,18 @@
+﻿@using ArticlesApp.Models
+@using ArticlesApp.HtmlHelpers
+@model IndexViewModel
+
+@{
+    ViewBag.Title = "Статьи";
+}
+
+@foreach (var a in @Model.Articles)
+{
+    @Html.Partial("ArticleSummary", a)
+    <br />
+    <br />
+}
+
+<div class="btn-group-sm float-right">
+        @Html.PageLinks(Model.PagingInfo, x => Url.Action("Index", new { page = x, category = Model.CurrentCategory }))
+    </div>

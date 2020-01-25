@@ -1,0 +1,23 @@
+﻿@model ArticlesApp.Models.Article
+
+@{
+    ViewBag.Title = "Удаление статьи";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2 class="text-center">Удаление статьи</h2>
+
+<h3 class="text-center">Вы уверены, что хотите удалить выбранную статью? </h3>
+<div>
+    <hr />        
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="card-footer text-lg-center">
+            <input type="submit" value="Удалить статью" class="btn btn-warning" /> |
+            @Html.ActionLink("Вернуться к списку статей", "Index", null, new { @class = "btn btn-outline-primary" })
+        </div>
+    }
+</div>

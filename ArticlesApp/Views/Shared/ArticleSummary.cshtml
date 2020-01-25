@@ -1,0 +1,16 @@
+﻿@model ArticlesApp.Models.Article
+
+<div class="well">
+    <span>@Model.Category</span>
+    @if (Model.ImageData != null)
+    {
+        <div class="float-left" style="margin-right: 10px">
+            <img class="img-thumbnail" width="135" height="135"
+                 src="@Url.Action("GetImage", "Admin", new { Model.Id })" />
+        </div>
+    }
+    <h3>
+        <strong>@Html.ActionLink(Model.Name, "Details", new { Model.Id })</strong>
+    </h3>
+    <span class="lead">@Model.ShortDescription</span>
+</div>

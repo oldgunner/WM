@@ -1,0 +1,21 @@
+﻿@model IEnumerable<string>
+
+<div class="text-lg-center h3">
+    <h3>Категории:</h3>
+</div>
+@Html.ActionLink("Главная", "Index", "Home", null,
+    new { @class = "btn btn-block btn-primary btn-default btn-lg" })
+
+@foreach (var link in Model)
+{
+    @Html.RouteLink(link, new
+    {
+        controller = "Home",
+        action = "Index",
+        category = link,
+        page = 1
+    }, new
+    {
+        @class = "btn btn-block btn-primary btn-default btn-lg"
+    })
+}
